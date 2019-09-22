@@ -1,5 +1,6 @@
 #Script constructs the plural of an English noun according to various plural rules
 #Not conclusive, some rules not taken care of
+#use of generators
 
 import re
 
